@@ -1,0 +1,25 @@
+{
+    "4444333322122111112": {
+        "card":"444433332112221112",
+        "holder": "John Doe",
+        "holderToken": "#vtex#token#d799bae#csc#",
+        "number": "364901****2661",
+        "csc": "***",
+        "bin": "364901",
+        "numberToken": "#vtex#token#d799bae#number#",
+        "numberLength": 16,
+        "cscToken": "#vtex#token#d799bae#csc#",
+        "cscLength": 3,
+        "expiration": {
+          "month": "12",
+          "year": "2020"
+        },
+        "document": "39295416023",
+        "paymentOrigin": "Google Pay",
+        "cryptogram": "/gAAAAAAAbQHWutaqaYsQLsAAAA=",
+        "eci": "05"},
+        "4444333322221111":{
+          "card":"4444333322221111"
+        }
+
+}
